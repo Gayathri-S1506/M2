@@ -12,8 +12,16 @@ Write a C program to print even numbers ranging from M to N (including M and N v
 7.	Continue the loop until you have iterated through all numbers from M to N.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/6fdc8de7-6e57-4816-bc38-9b34b0d1157f)
+
+## INPUT:
+![image](https://github.com/user-attachments/assets/3fe49288-7824-44a6-91ea-1fd05ff50641)
+
+
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/0ad1b13e-4083-473e-b745-39df0c383926)
+
 
 
 
@@ -45,9 +53,18 @@ Write a C program to print the given triangular pattern using loop.
 5.	Continue the loop until you have printed the entire triangular pattern.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/75e80578-6197-4f63-8b49-329d03319e08)
+## INPUT:
+![image](https://github.com/user-attachments/assets/74fd181a-46ba-48c0-9a1f-5e1596c13cb7)
+
+
+
 
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/2bdccff7-bae8-43ae-8e65-75da2633e4ad)
+
+
 
 
 
@@ -74,9 +91,16 @@ Write a C program to perform addition and subtraction of two numbers using funct
 4.	Call the addition and subtraction functions, passing the two numbers as arguments.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/c2e4ae4c-5d6f-4614-a94b-ad4dd0c3bc40)
+## INPUT:
+![image](https://github.com/user-attachments/assets/4a39487a-b0be-4eca-b21c-c4697493685e)
+
+
 
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/1633036c-a399-4cce-bf58-5d2f4ff71ecd)
+
 
 
 
@@ -106,9 +130,18 @@ Write a c program to find the sum of odd digits using for loop
 6.	Print the sum of odd digits.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/01e98729-499e-4631-a469-8d6e3c955226)
+## INPUT:
+
+![image](https://github.com/user-attachments/assets/21ae1b46-cba4-4150-a263-df9ba11a78f8)
+
+
 
 
 ## OUTPUT:
+
+![image](https://github.com/user-attachments/assets/b76390c1-ab76-4596-9bbe-5a9e55ff8f57)
+
 
 
 
@@ -137,8 +170,18 @@ d.	After the loop, print the factorial value.
 
 ## PROGRAM:
 
+![image](https://github.com/user-attachments/assets/459b916a-53f8-4821-b4b6-f5b2b2029184)
+## INPUT:
+
+![image](https://github.com/user-attachments/assets/75e4f590-b7ae-4db5-aa56-a0970a9e2234)
+
+
+
 
 ## OUTPUT:
+
+![image](https://github.com/user-attachments/assets/c441461f-e462-4356-aea5-8f8b116aaec2)
+
 
 ## RESULT:
 The program correctly computes the factorial of a given number using a separate function and displays the result.
