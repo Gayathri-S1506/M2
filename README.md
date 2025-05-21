@@ -177,7 +177,6 @@ d.	After the loop, print the factorial value.
 
 
 
-
 ## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/c441461f-e462-4356-aea5-8f8b116aaec2)
